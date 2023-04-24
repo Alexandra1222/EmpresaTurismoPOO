@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="653e990b-f62e-484a-9d55-f368c1241572" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PracticoEmpresaTurismo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controlador/EmpresaTurismo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Cabagna.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Carpa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/DatosCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Hospederia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Hotel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/MedioDeAlojamiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/Aplicacion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/Leer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/vista/Aplicacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/Aplicacion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/claudia.salgan/Documents/Proyectos IntelliJ IDEA/EjemploTiendaCalzado",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/claudia.salgan/Documents/Proyectos IntelliJ IDEA/EjemploTiendaCalzado&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="vista" />
